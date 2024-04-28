@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font: normal 20px Arial;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        var nome = window.prompt('Qual é o seu nome?')
+        document.write(`Olá, <strong>${nome}</strong>! Seu nome tem ${nome.length} letras.<br/>`) // Escreve no HTML
+        document.write(`Seu nome é grandão em <strong>${nome.toUpperCase()}</strong>.<br/>`)
+        document.write(`Mas aqui ele fica pequeniniiiinho <strong>${nome.toLowerCase()}</strong>.`)
+    </script>
+</body>
+</html>
