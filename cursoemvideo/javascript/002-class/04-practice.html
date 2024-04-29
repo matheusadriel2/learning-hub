@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font: normal 20px Arial;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        var money = window.prompt('Quanto dinheiro você tem?');
+        document.write(`Legal, vamos começar. <br/> Você tem <strong>${Number.parseFloat(money).toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})}</strong>.`);
+    </script>
+</body>
+</html>
