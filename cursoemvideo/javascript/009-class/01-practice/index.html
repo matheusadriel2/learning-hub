@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Count</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Let's count</h1>
+    </header>
+
+    <section>
+        <div>
+            <p>
+                Start:
+                <input type="number" name="start" id="start" min="1">
+            </p>
+            <p>
+                End:
+                <input type="number" name="end" id="end" min="1">
+            </p>
+            <p>
+                Step:
+                <input type="number" name="step" id="step" min="1">
+            </p>
+            <p>
+                <input type="button" value="Count" onclick="count()">
+            </p>
+        </div>
+        <div id="res">
+            Fill above data to check the results.
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; CursoEmVídeo</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

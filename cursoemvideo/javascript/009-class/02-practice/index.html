@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>X Table</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Multiplication Table</h1>
+    </header>
+
+    <section>
+        <div>
+            <p>
+                Number: <input type="number" name="number" id="number"> 
+                <input type="button" value="Generate" id="generateB" onclick="multiply()">
+            </p>
+        </div>
+        <div>
+            <select name="xtable" id="xtable" size="10">
+                <option>Please, insert a number!</option>
+            </select>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; CursoEmVídeo</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

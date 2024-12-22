@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analysis</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>Number analysis</h1>
+    </header>
+
+    <section id="sec">
+        <div>
+            <p>
+                Number (1 to 100): <input type="number" name="number" id="num">
+                <input type="button" value="Add" id="add_btn" onclick="addNum()">
+            </p>
+        </div>
+        <div>
+            <select name="restable" id="restable" size="10">
+                <option>Please, insert a number!</option>
+            </select>
+        </div>
+        <div>
+            <input type="button" value="Analyse" id="ans_btn" onclick="analyse()">
+        </div>
+        <div id="res"></div>
+    </section>
+
+    <footer>
+        <p>&copy; CursoEmVídeo</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
