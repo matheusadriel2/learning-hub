@@ -29,6 +29,8 @@ public class Title {
         return Length;
     }
 
+    public double getRatingSum() { return ratingSum; }
+
     public int getTotalRating() {
         return totalRating;
     }
