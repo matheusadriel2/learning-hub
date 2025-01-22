@@ -39,5 +39,6 @@ public class Exercicio03 {
         System.out.printf("FINAL GRADE = %.2f\n", student1.finalGrade());
         student1.isApproved();
 
+        sc.close();
     }
 }
