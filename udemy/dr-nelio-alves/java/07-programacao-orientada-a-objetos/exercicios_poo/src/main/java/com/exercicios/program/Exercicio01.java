@@ -1,4 +1,4 @@
-package main.java.com.exercicios;
+package main.java.com.exercicios.program;
 
 import main.java.com.exercicios.entities.Rectangle;
 import java.util.Scanner;
