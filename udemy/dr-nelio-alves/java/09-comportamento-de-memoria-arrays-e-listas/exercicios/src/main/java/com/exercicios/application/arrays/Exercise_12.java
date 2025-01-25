@@ -1,4 +1,4 @@
-package main.java.com.exercicios.application;
+package main.java.com.exercicios.application.arrays;
 
 import main.java.com.exercicios.entities.TripStudent;
 
