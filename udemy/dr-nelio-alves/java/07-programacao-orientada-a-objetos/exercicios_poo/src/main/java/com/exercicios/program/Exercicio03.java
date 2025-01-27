@@ -1,6 +1,6 @@
-package main.java.com.exercicios.program;
+package main.java.com.exercises.program;
 
-import main.java.com.exercicios.entities.Student;
+import main.java.com.exercises.entities.Student;
 
 import java.util.Scanner;
 

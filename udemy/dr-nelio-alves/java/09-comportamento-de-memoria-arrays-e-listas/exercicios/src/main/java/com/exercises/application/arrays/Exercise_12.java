@@ -1,6 +1,6 @@
-package main.java.com.exercicios.application.arrays;
+package main.java.com.exercises.application.arrays;
 
-import main.java.com.exercicios.entities.TripStudent;
+import main.java.com.exercises.entities.TripStudent;
 
 import java.util.Scanner;
 

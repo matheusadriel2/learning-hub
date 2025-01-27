@@ -1,7 +1,7 @@
-package main.java.com.exercicios.application.arrays;
+package main.java.com.exercises.application.arrays;
 
 import java.util.Scanner;
-import main.java.com.exercicios.entities.PersonData;
+import main.java.com.exercises.entities.PersonData;
 
 public class Exercise_11 {
     public static void main(String[] args) {

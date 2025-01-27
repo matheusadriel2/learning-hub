@@ -1,6 +1,6 @@
-package main.java.com.exercicios.program;
+package main.java.com.exercises.program;
 
-import main.java.com.exercicios.util.CurrencyConverter;
+import main.java.com.exercises.util.CurrencyConverter;
 
 import java.util.Scanner;
 

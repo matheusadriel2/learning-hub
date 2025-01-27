@@ -1,6 +1,6 @@
-package main.java.com.exercicios.application.arrays;
+package main.java.com.exercises.application.arrays;
 
-import main.java.com.exercicios.entities.PersonHeight;
+import main.java.com.exercises.entities.PersonHeight;
 
 import java.util.Scanner;
 

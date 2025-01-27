@@ -1,4 +1,4 @@
-package main.java.com.exercicios.util;
+package main.java.com.exercises.util;
 
 public class CurrencyConverter {
     public static double calc(double price, double amount) {

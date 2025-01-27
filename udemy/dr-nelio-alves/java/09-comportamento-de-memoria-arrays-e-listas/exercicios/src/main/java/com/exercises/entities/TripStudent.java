@@ -1,4 +1,4 @@
-package main.java.com.exercicios.entities;
+package main.java.com.exercises.entities;
 
 public class TripStudent {
     private int room;
