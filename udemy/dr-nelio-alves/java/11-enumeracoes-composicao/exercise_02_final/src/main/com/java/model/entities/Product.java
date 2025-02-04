@@ -1,11 +1,9 @@
-package main.com.java.entities;
+package main.com.java.model.entities;
 
 public class Product {
+
     private String name;
     private Double price;
-
-    public Product() {
-    }
 
     public Product(String name, Double price) {
         this.name = name;

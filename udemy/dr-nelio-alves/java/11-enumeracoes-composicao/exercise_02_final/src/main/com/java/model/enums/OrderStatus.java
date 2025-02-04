@@ -1,4 +1,4 @@
-package main.com.java.entities.enums;
+package main.com.java.model.enums;
 
 public enum OrderStatus {
     PENDING_PAYMENT,
