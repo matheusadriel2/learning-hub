@@ -2,7 +2,7 @@
 
 <h1>Learning Hub</h1>
 
-<img src="./assets/0b5cc024841accd9a31a7b2daeb0e57b2.gif" alt="Banner" style="width: 50%;">
+<img src="./assets/0b5cc024841accd9a31a7b2daeb0e57b2.gif" alt="Banner">
 
 <p>This repository has the purpose of recording my activities and academic progress in the field of software development.</p>
 <p>With a continuous focus on improving my skills and expanding my technical knowledge, I strive to stay up-to-date with the latest trends and emerging tools in the field of information technology.</p>
