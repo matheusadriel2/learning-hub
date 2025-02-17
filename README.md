@@ -21,7 +21,7 @@
 
 - [ ] Institute
 - [ ] Study subject
-- [ ] Projects and activies
+- [ ] Projects and activities
 
 
 ## Contributing
