@@ -17,14 +17,13 @@ public class Accounts {
     public Accounts() {
     }
 
-    public Accounts(Integer id, String name, AccountType type, Integer number, Double balance, LocalDateTime creationDate, LocalDateTime updateDate) {
+    public Accounts(Integer id, String name, AccountType type, Integer number, Double balance, LocalDateTime creationDate) {
         this.id = id;
         this.name = name;
         this.type = type;
         this.number = number;
         this.balance = balance;
         this.creationDate = creationDate;
-        this.updateDate = updateDate;
     }
 
     public Integer getId() {
