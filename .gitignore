@@ -1,0 +1,26 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+out/
+build/
+target/
+
+# Logs
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.bak
+
+# Cache
+.gradle/
+.gradle-cache/
